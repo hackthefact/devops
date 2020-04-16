@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 tytru
 
@@ -9,3 +10,8 @@ fg
 dsg
 s
 
+=======
+lkjslfjsldfs
+df
+a
+>>>>>>> development
